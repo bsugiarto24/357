@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/SmartAlloc.c.o ./Debug/compute.c.o   

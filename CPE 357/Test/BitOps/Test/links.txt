@@ -1,0 +1,14 @@
+
+Turnin
+~grade-cstaley/bin/turnin ~grade-cstaley/357/LZWExp/turninBronze 
+~grade-cstaley/bin/turnin ~grade-cstaley/357/LZWExp/turninBronze BitUnpacker.c LZWExp.c TestExp.c CodeSet.c MyLib.h BitUnpacker.h CodeSet.h LZWExp.h SmartAlloc.c SmartAlloc.h
+
+~grade-cstaley/bin/turnin ~grade-cstaley/357/LZWExp/turninSilver BitUnpacker.c LZWExp.c TestExp.c CodeSet.c MyLib.h BitUnpacker.h CodeSet.h LZWExp.h SmartAlloc.c SmartAlloc.h
+
+Bender
+~grade-cstaley/bin/bender ~grade-cstaley/357/LZWExp/turninBronze 
+
+detab
+~grade_cstaley/bin/detab
+
+41083
